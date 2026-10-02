@@ -39,7 +39,7 @@
     "route_set": "default-pre-integration",
     "env_config": "clusters_eta",
     "task_config": "selfish_40",
-    "alg_config": "config_entropy_decay_dominika",
+    "alg_config": "config_entropy_decay1",
     "script": "scripts/ippo_clusters_shared_params_critic_entropy_decay.py",
     "algorithm": "ippo",
     "num_agents": 1035,

@@ -39,7 +39,7 @@
     "route_set": "default-pre-integration",
     "env_config": "clusters_eta",
     "task_config": "selfish_40",
-    "alg_config": "config6_lr_decay2_dominika",
+    "alg_config": "config_lr_decay2",
     "script": "scripts/ippo_clusters_lr_decay.py",
     "algorithm": "ippo",
     "num_agents": 1035,

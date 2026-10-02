@@ -38,7 +38,7 @@
     "route_set": "default-pre-integration",
     "env_config": "clusters_eta",
     "task_config": "selfish_40",
-    "alg_config": "config6_ema01_dominika",
+    "alg_config": "config_ema01",
     "script": "scripts/ippo_clusters_shared_params_critic_ema.py",
     "algorithm": "ippo",
     "num_agents": 1035,
